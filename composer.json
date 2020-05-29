@@ -5,6 +5,9 @@
   "keywords": ["phpunit", "php testing"],
   "homepage": "https://github.com/serbanghita/PHP-Testing-Starter",
   "license": "MIT",
+  "require-dev": {
+        "phpunit/phpunit": "^6.5"
+    },
   "authors": [
     {
       "name": "Bogdan Anton",
